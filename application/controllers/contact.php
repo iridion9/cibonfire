@@ -46,4 +46,4 @@ class Contact extends CI_Controller
 		Template::render();
 	}
 }
-?>
+
